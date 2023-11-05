@@ -7,7 +7,7 @@
 .eslintrc.js
 package-lock.json
 package.json
-sass
+sass/style.sass
 
 # testing
 /coverage
